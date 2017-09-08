@@ -35,6 +35,7 @@ void mouseClicked()
  
 void rinnegan()
 {
+	stroke()
 	noFill();
 	ellipse(300,300,x,x);
 	x = x + 100;
